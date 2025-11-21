@@ -110,7 +110,7 @@ This design ensures:
 
 2.  Open in Xcode:
     ```bash
-    open X-Scan-3D/X-Scan-3D.xcodeproj
+    open "X-Scan 3D.xcodeproj"
     ```
 3.  Add required permissions to `Info.plist`:
 
